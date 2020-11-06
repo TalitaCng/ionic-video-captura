@@ -1,0 +1,8 @@
+{
+  "name": "ionic-video-captura",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "459dfaef"
+}
